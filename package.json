@@ -1,0 +1,11 @@
+{
+  "name": "appium-desktop-flutter",
+  "version": "1.0.0",
+  "description": "Implement this driver to connect to a Appium Desktop in apps Flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noe014",
+  "license": "ISC"
+}
